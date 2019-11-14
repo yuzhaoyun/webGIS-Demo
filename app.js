@@ -1,8 +1,4 @@
-/**
- * @author: giscafer ,https://github.com/giscafer
- * @date: 2019-03-18 14:04:30
- * @description: webpack demo，https://xiaozhuanlan.com/webgis
- */
+
 
 var typhoonTestData = require('./data'); // 台风坐标点数据
 
