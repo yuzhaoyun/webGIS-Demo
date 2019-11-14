@@ -10,8 +10,8 @@
     "serve-release": "node_modules/.bin/webpack-dev-server --config webpack.release.config.js --content-base /dist"
   },
   "author": {
-    "name": "giscafer",
-    "url": "http://giscafer.com"
+    "name": "",
+    "url": ""
   },
   "license": "Apache-2.0",
   "devDependencies": {
