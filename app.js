@@ -3,10 +3,7 @@
 var typhoonTestData = require('./data'); // 台风坐标点数据
 
 // 自定义版权信息（简单的html字符串）
-var mapAttr =
-  'Map data &copy; <a href="https://xiaozhuanlan.com/webgis/">《小专栏：WebGIS入门实战》</a> contributors, ' +
-  '<a href="http://giscafer.com/">giscafer</a>, ' +
-  'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>';
+var mapAttr = '测试DEMO';
 
 // mapbox 地图服务URL
 var mapboxUrl =
